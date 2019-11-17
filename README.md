@@ -22,4 +22,4 @@ El conjunto de datos que se deriva de la descarga es el siguiente:
   - Ciudades
   - Zonas
   - Tipos de asentamiento
-  - Códigos postales
+  - Asentamiento (y CPs)

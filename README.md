@@ -17,9 +17,9 @@ del siguiente link: [Códigos postales](https://www.correosdemexico.gob.mx/SSLSe
 
 El conjunto de datos que se deriva de la descarga es el siguiente:
 
-  - Estados
-  - Municipios
-  - Ciudades
-  - Zonas
-  - Tipos de asentamiento
-  - Asentamiento (y CPs)
+  - [Estado](./cp-db/estado.csv)
+  - [Municipio](./cp-db/municipio.csv)
+  - [Ciudad](./cp-db/ciudad.csv)
+  - [Zona](./cp-db/zona.csv)
+  - [Tipos de asentamiento](./cp-db/tipo_asentamiento.csv)
+  - [Asentamiento (y CPs)](./cp-db/asentamiento.csv)

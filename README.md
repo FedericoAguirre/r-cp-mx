@@ -23,3 +23,5 @@ El conjunto de datos que se deriva de la descarga es el siguiente:
   - [Zona](./cp-db/zona.csv)
   - [Tipos de asentamiento](./cp-db/tipo_asentamiento.csv)
   - [Asentamiento (y CPs)](./cp-db/asentamiento.csv)
+
+![Asentamientos MX ER](./img/asentamientos-mx-er.png)

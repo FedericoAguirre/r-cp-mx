@@ -25,3 +25,8 @@ El conjunto de datos que se deriva de la descarga es el siguiente:
   - [Asentamiento (y CPs)](./cp-db/asentamiento.csv)
 
 ![Asentamientos MX ER](./img/asentamientos-mx-er.png)
+
+## Donaciones
+
+Si este material te fue de ayuda puedes donar a mi cuenta de [Paypal](https://paypal.me/FAguirreCardiel).
+![Paypal](./img/paypal_74x46.jpg)

@@ -41,3 +41,9 @@ Mi nombre es [Federico Aguirre](mailto:federico.aguirre.cardiel@gmail.com).
   - [LinkedIn](https://www.linkedin.com/in/federico-aguirre-4199933/)
   - [Progamando chácharas - Blogspot](http://programandochacharas.blogspot.com/)
   - [Twitter](https://twitter.com/FAguirreCardiel)
+
+
+## Copyright y licencia
+
+Copyright 2019 [Federico Aguirre](https://www.linkedin.com/in/federico-aguirre-4199933/).
+Código liberado bajo la licencia [Apache License](./LICENSE).

@@ -39,4 +39,5 @@ Si este material te fue de ayuda puedes donar a mi cuenta de [Paypal](https://pa
 Mi nombre es [Federico Aguirre](mailto:federico.aguirre.cardiel@gmail.com).
 
   - [LinkedIn](https://www.linkedin.com/in/federico-aguirre-4199933/)
-  - [Blogspot](http://programandochacharas.blogspot.com/)
+  - [Progamando chácharas - Blogspot](http://programandochacharas.blogspot.com/)
+  - [Twitter](https://twitter.com/FAguirreCardiel)

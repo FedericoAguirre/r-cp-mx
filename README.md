@@ -4,7 +4,7 @@ Conjunto de datos normalizados en R de los códigos postales mexicanos.
 ![Correos mexicanos](./img/cm.png)
 
 
-## Propósito.
+## Propósito
 
 Este proyecto tiene el propósito de generar un conjunto de datos normalizado,
 en archivos csv, que tenga catálogos que se puedan utilizar en el análisis de datos.
@@ -26,8 +26,17 @@ El conjunto de datos que se deriva de la descarga es el siguiente:
 
 ![Asentamientos MX ER](./img/asentamientos-mx-er.png)
 
+
 ## Donaciones
 
 Si este material te fue de ayuda puedes donar a mi cuenta de [Paypal](https://paypal.me/FAguirreCardiel).
 
 ![Paypal](./img/paypal_74x46.jpg)
+
+
+## Datos de contacto
+
+Mi nombre es [Federico Aguirre](mailto:federico.aguirre.cardiel@gmail.com).
+
+  - [LinkedIn](https://www.linkedin.com/in/federico-aguirre-4199933/)
+  - [Blogspot](http://programandochacharas.blogspot.com/)

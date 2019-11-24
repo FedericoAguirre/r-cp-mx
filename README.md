@@ -29,4 +29,5 @@ El conjunto de datos que se deriva de la descarga es el siguiente:
 ## Donaciones
 
 Si este material te fue de ayuda puedes donar a mi cuenta de [Paypal](https://paypal.me/FAguirreCardiel).
+
 ![Paypal](./img/paypal_74x46.jpg)

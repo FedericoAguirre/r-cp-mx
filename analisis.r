@@ -27,8 +27,7 @@ conteo_asentamiento_df <- crossing(geoposicion_df, zona_df) %>%
   mutate(tiene_asentamiento = ifelse(is.na(asentamiento), 0, 1 ))  %>%
   select(estado_id, estado, latitud, longitud, zona_id, zona, tiene_asentamiento) %>%
   group_by(estado_id, estado, latitud, longitud, zona_id, zona) %>%
-  summarise(asentamientos = sum(tiene_asentamiento)) %>%
-  mutate(pop_up = paste('<div><div><b>', estado, '</b></div><div>', asentamientos, '</div></div>'))
+  summarise(asentamientos = sum(tiene_asentamiento))
 
 asentamiento_urbano_df <- filter(conteo_asentamiento_df, zona_id == 'U')
 asentamiento_semiurbano_df <- filter(conteo_asentamiento_df, zona_id == 'S')

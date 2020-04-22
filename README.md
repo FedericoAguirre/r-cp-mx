@@ -12,6 +12,10 @@ en archivos csv, que tenga catálogos que se puedan utilizar en el análisis de 
 Correos mexicanos permite descargar los códigos postales del país a través
 del siguiente link: [Códigos postales](https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx).
 
+Adicionalmente muestra el uso de [Leaflet](https://leafletjs.com/) y ggplot2 en R para visualizar datos geográficos.
+
+![Asentamientos urbanos](./img/urbanos.png)
+![Mapa de asentamientos](./img/mx-asentamientos.png)
 
 ## Conjunto de Datos
 
@@ -38,7 +42,7 @@ Si este material te fue de ayuda puedes donar a mi cuenta de [Paypal](https://pa
 
 Mi nombre es [Federico Aguirre](mailto:federico.aguirre.cardiel@gmail.com).
 
-  - [LinkedIn](https://www.linkedin.com/in/federico-aguirre-4199933/)
+  - [LinkedIn](https://www.linkedin.com/in/federicoaguirrec)
   - [Progamando chácharas - Blogspot](http://programandochacharas.blogspot.com/)
   - [Twitter](https://twitter.com/FAguirreCardiel)
   - [Github](https://github.com/FedericoAguirre/)

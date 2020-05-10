@@ -27,7 +27,7 @@ Adicionalmente muestra el uso de [Leaflet](https://leafletjs.com/) y ggplot2 en 
 
 ![Asentamientos urbanos](./img/urbanos.png)
 ![Mapa de asentamientos](./img/mx-asentamientos.png)
-![Presentación de Visualización de datos geográficos](./Visualizacion.pdf)
+[Presentación de Visualización de datos geográficos](./Visualizacion.pdf)
 
 ## Conjunto de Datos
 

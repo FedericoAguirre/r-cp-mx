@@ -1,4 +1,15 @@
 # r-cp-mx
+
+*¡Actualización! COVID 19*
+
+Código para visualizar las estadísticas de enfermos de [COVID 19 en México](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico). a partir de los datos abiertos.
+
+![Enfermos](./img/infectados.png)
+![Mapa de enfermos](./img/covid19.png)
+
+El archivo que genera los gráficos anteriores es [covid19.r](./covid19.r).
+
+
 Conjunto de datos normalizados en R de los códigos postales mexicanos.
 
 ![Correos mexicanos](./img/cm.png)

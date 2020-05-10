@@ -1,11 +1,11 @@
 # r-cp-mx
 
-*¡Actualización! COVID 19*
+**¡Actualización! COVID 19**
 
-Código para visualizar las estadísticas de enfermos de [COVID 19 en México](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico). a partir de los datos abiertos.
+Código para visualizar las estadísticas de enfermos de [COVID 19 en México](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico) a partir de los datos abiertos.
 
-![Enfermos](./img/infectados.png)
 ![Mapa de enfermos](./img/covid19.png)
+![Enfermos](./img/infectados.png)
 
 El archivo que genera los gráficos anteriores es [covid19.r](./covid19.r).
 

@@ -27,6 +27,7 @@ Adicionalmente muestra el uso de [Leaflet](https://leafletjs.com/) y ggplot2 en 
 
 ![Asentamientos urbanos](./img/urbanos.png)
 ![Mapa de asentamientos](./img/mx-asentamientos.png)
+![Presentación de Visualización de datos geográficos](./"Visualizacion de datos geograficos.pdf")
 
 ## Conjunto de Datos
 
@@ -61,5 +62,5 @@ Mi nombre es [Federico Aguirre](mailto:federico.aguirre.cardiel@gmail.com).
 
 ## Copyright y licencia
 
-Copyright 2019 [Federico Aguirre](https://www.linkedin.com/in/federico-aguirre-4199933/).
+Copyright 2019 [Federico Aguirre](https://www.linkedin.com/in/federicoaguirrec/).
 Código liberado bajo la licencia [Apache License](./LICENSE).

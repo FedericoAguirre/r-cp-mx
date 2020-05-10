@@ -1,3 +1,11 @@
+# Autor: Federico Aguirre
+# Paypal: https://paypal.me/FAguirreCardiel
+# Correo: federico.aguirre.cardiel@gmail.com
+# LinkedIn: https://www.linkedin.com/in/federicoaguirrec
+# Blog: http://programandochacharas.blogspot.com
+# Twitter: https://twitter.com/FAguirreCardiel
+# Github: https://github.com/FedericoAguirre
+
 # Datos descargados de Correos mexicanos:
 # https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx
 

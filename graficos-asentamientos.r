@@ -1,3 +1,11 @@
+# Autor: Federico Aguirre
+# Paypal: https://paypal.me/FAguirreCardiel
+# Correo: federico.aguirre.cardiel@gmail.com
+# LinkedIn: https://www.linkedin.com/in/federicoaguirrec
+# Blog: http://programandochacharas.blogspot.com
+# Twitter: https://twitter.com/FAguirreCardiel
+# Github: https://github.com/FedericoAguirre
+
 library(ggplot2)
 
 barras_urbanos<-ggplot(data=asentamiento_urbano_df, aes(x=reorder(estado, -asentamientos), y=asentamientos)) +
